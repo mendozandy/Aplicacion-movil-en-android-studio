@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">finalPR4-AndreaAguero</string>
+    <string name="txId">ID Auto-Generado</string>
+    <string name="txRazon_social">Ingrese Razon Social</string>
+    <string name="txRuc">Ingrese Ruc</string>
+    <string name="txDireccion">Ingrese Direccion</string>
+    <string name="txTelefono">Ingrese Telefono</string>
+    <string name="boton">Agregar</string>
+    <string name="btnRecu">Recuperar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnEliminar">Eliminar</string>
+</resources>
